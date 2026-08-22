@@ -13,4 +13,3 @@ I'm a Computer Games Programming graduate from DeMontfort university with first 
 ![](https://github-readme-stats.shion.dev/api?username=FinChalkley&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=FinChalkley&theme=shadow_green&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=FinChalkley&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-20:34 20/08/2026
